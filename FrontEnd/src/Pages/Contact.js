@@ -63,7 +63,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="bg-gray-900 fixed lg:pt-16 inset-0 flex items-center justify-center sm:py-16">
+    <div className="bg-gray-900  lg:pt-16 inset-0 flex items-center justify-center sm:py-16">
       <div className="bg-gray-800 p-8 rounded-lg shadow-lg max-w-3xl w-full mt-20">
         <h1 className="text-3xl sm:text-4xl font-bold text-white mb-6 text-center">
           Contact Us
